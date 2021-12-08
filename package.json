@@ -18,5 +18,8 @@
   },
   "engines": {
     "npm": "7.x"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
   }
 }
