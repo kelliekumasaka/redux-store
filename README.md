@@ -2,6 +2,11 @@
 ## About
 On this website, you are able to scroll through products and add them to your cart and checkout, as you would on an actual e-commerce website. Using `graphql` and `MongoDB` this website stores your products in a database, and uses different queries and mutations for website functionality.
 
+## Deployment
+```
+https://kelliekumasaka-redux-store.herokuapp.com/
+```
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
